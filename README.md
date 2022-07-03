@@ -1,13 +1,25 @@
-## Getting Started
+<img width="100%" src="https://user-images.githubusercontent.com/82256596/177020819-ad7e733d-67d1-4579-a98c-823259724dfa.jpg" >
 
-### setup
+<video width="33%" src="https://user-images.githubusercontent.com/82256596/177020824-17fb747b-05e2-4e01-bc3c-9a68260928f2.MP4" >
 
-```
-$ yarn install
-```
 
-### development
+## アプリ説明
+設定した駅から出る直近の電車の出発時刻までのカウントダウンを表示してくれるアプリ。このアプリを使うことで電車まで走るかどうかの判断ができます（PWA対応）。
 
-```
-$ yarn dev
-```
+## 担当箇所
+- UI作成
+- ホーム画面のフロント部分の実装
+- 全体のスタイルのコーディング
+- PWAの設定周り
+
+## 使用技術
+- Next.js
+- Typescript
+
+## 実装した機能
+- 設定した駅の表示
+- 設定した駅の出発時刻の取得と表示
+- 出発時刻までの残り時間（カウントダウン）表示
+- 駅の検索機能（インクリメンタルサーチ形式で実装）
+- 駅の設定機能
+- PWAへの対応
