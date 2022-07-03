@@ -1,7 +1,8 @@
 <img width="100%" src="https://user-images.githubusercontent.com/82256596/177020819-ad7e733d-67d1-4579-a98c-823259724dfa.jpg" >
 
-<video width="33%" src="https://user-images.githubusercontent.com/82256596/177020824-17fb747b-05e2-4e01-bc3c-9a68260928f2.MP4" >
 
+
+https://user-images.githubusercontent.com/82256596/177020880-df13f084-41a0-49e8-a5b2-3f62fee1cb01.MP4
 
 
 ## アプリ説明
